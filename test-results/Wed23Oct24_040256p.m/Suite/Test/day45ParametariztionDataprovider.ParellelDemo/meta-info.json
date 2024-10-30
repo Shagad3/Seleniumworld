@@ -1,0 +1,74 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setUp",
+        "resultFileName": "SetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713774798,
+      "duration": 1900,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "z",
+        "resultFileName": "Z"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713776719,
+      "duration": 432,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "a",
+        "resultFileName": "A"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713777157,
+      "duration": 10082,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "close",
+        "resultFileName": "Close"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713787240,
+      "duration": 99,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "beforeMethod",
+        "resultFileName": "BeforeMethod"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981692940,
+      "duration": 2190,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "testlogin1",
+        "resultFileName": "Testlogin1"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981695140,
+      "duration": 10451,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "afterMethod",
+        "resultFileName": "AfterMethod"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981705593,
+      "duration": 199,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "beforeMethod",
+        "resultFileName": "BeforeMethod1"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981705795,
+      "duration": 2159,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "testlogin",
+        "resultFileName": "Testlogin"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981707956,
+      "duration": 2566,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "afterMethod",
+        "resultFileName": "AfterMethod2"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729981710523,
+      "duration": 225,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

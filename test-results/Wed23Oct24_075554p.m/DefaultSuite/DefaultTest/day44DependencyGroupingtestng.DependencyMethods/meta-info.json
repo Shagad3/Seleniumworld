@@ -1,0 +1,89 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "openapp",
+        "resultFileName": "Openapp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729727754694,
+      "duration": 40,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "login",
+        "resultFileName": "Login"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729727754740,
+      "duration": 4,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "search",
+        "resultFileName": "Search"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729727754746,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "advsearch",
+        "resultFileName": "Advsearch"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729727754751,
+      "duration": 4,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "logout",
+        "resultFileName": "Logout"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729727754757,
+      "duration": 5,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

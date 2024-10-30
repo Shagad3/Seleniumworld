@@ -1,0 +1,57 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "edge"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setUp",
+        "resultFileName": "SetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717235077,
+      "duration": 3561,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "a",
+        "resultFileName": "A"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717238639,
+      "duration": 469,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "close",
+        "resultFileName": "Close"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717239109,
+      "duration": 161,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

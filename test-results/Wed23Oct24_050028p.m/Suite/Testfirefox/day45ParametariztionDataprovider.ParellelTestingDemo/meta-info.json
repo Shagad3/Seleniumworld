@@ -1,0 +1,57 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "firefox"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setUp",
+        "resultFileName": "SetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717229173,
+      "duration": 4053,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "a",
+        "resultFileName": "A"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717233232,
+      "duration": 877,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "close",
+        "resultFileName": "Close"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729717234110,
+      "duration": 962,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

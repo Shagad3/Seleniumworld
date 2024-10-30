@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="groupingSuite">
+<listeners>
+<listener class-name="day44DependencyGroupingtestng.ExtentReportManager"></listener>
+
+</listeners>
+  <test  name="groupingtests">
+  <groups>
+  <run>
+ 
+  <include name = "sanity"/>
+  </run>
+  </groups>
+  
+  
+  
+    <classes>
+      <class name="day44DependencyGroupingtestng.Group1"/>
+      <class name="day44DependencyGroupingtestng.Group2"/>
+      <class name="day44DependencyGroupingtestng.Group3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

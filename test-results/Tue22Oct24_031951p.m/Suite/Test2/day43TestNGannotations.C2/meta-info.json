@@ -1,0 +1,38 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "beforeTest",
+        "resultFileName": "BeforeTest"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791154,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "f",
+        "resultFileName": "F"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791181,
+      "duration": 7,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

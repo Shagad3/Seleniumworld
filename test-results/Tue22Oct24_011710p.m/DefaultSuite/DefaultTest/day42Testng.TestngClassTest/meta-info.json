@@ -1,0 +1,55 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "logout",
+        "resultFileName": "Logout"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729617430347,
+      "duration": 35,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "login",
+        "resultFileName": "Login"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729617430389,
+      "duration": 1934,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "action",
+        "resultFileName": "Action"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729617432326,
+      "duration": 648,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

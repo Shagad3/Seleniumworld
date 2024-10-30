@@ -1,0 +1,15 @@
+{
+  "name": "Suite",
+  "status": "pass",
+  "tests": [
+    "Suite/Testchrome",
+    "Suite/Testfirefox",
+    "Suite/Testedge"
+  ],
+  "total": 3,
+  "pass": 3,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1729717226413,
+  "endTime": 1729717239270
+}

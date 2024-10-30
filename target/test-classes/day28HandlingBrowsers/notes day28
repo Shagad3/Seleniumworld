@@ -1,0 +1,6 @@
+Navigate commands:
+
+navigate().to()
+navigate().back()
+navigate().forward()
+navigate().refresh()

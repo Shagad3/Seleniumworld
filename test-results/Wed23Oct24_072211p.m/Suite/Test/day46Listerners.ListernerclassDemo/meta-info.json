@@ -1,0 +1,89 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setup",
+        "resultFileName": "Setup"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729725726610,
+      "duration": 5261,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "testlogo",
+        "resultFileName": "Testlogo"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729725731891,
+      "duration": 47,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "testappurl",
+        "resultFileName": "Testappurl"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729725731941,
+      "duration": 15,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "search",
+        "resultFileName": "Search"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729725731958,
+      "duration": 5,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "shutdown",
+        "resultFileName": "Shutdown"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729725731965,
+      "duration": 245,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

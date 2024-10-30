@@ -1,0 +1,55 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "setupbefore",
+        "resultFileName": "Setupbefore"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729655342460,
+      "duration": 1558,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "{\"dataProvider\":\"jet\"}",
+        "name": "testlogin",
+        "resultFileName": "Testlogin"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729655344029,
+      "duration": 10,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "logoutafter",
+        "resultFileName": "Logoutafter"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729655344042,
+      "duration": 102,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

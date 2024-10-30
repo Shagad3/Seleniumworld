@@ -1,0 +1,106 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "login",
+        "resultFileName": "Login"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791101,
+      "duration": 3,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "search",
+        "resultFileName": "Search"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791106,
+      "duration": 3,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "logout",
+        "resultFileName": "Logout"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791111,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "login",
+        "resultFileName": "Login5"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791114,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "advancesearch",
+        "resultFileName": "Advancesearch"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791116,
+      "duration": 7,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "logout",
+        "resultFileName": "Logout6"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624791124,
+      "duration": 0,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

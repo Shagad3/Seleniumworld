@@ -1,0 +1,13 @@
+{
+  "name": "groupingSuite",
+  "status": "pass",
+  "tests": [
+    "GroupingSuite/Groupingtests"
+  ],
+  "total": 6,
+  "pass": 6,
+  "fail": 0,
+  "skip": 0,
+  "startTime": 1729727870602,
+  "endTime": 1729727870671
+}

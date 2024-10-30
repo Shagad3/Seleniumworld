@@ -1,0 +1,74 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [
+        "chrome"
+      ],
+      "metaData": {
+        "description": "",
+        "name": "setUp",
+        "resultFileName": "SetUp"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713546832,
+      "duration": 2818,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "selectsecond",
+        "resultFileName": "Selectsecond"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713549662,
+      "duration": 461,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "selectfirst",
+        "resultFileName": "Selectfirst"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713550147,
+      "duration": 10082,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "close",
+        "resultFileName": "Close"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729713560231,
+      "duration": 134,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+Day 26 - selenium web driver methods
+1: get methods - we can access through webdriver instance, page.
+
+ --get(url) -opens the url on the browser
+ --getTitle()- return the title of the page
+ --getCurrentUrl() - return the current URL of the page
+ --getPageSource()-returns source code of the page
+ --getWindowHandle()-returns ID of the single Browser window
+ --getWindowHandles()-returns ID of the multiple Browser window
+ 
+ 
+ 
+ 2: conditional methods - we can apply on the web element 
+Returns the true/false.
+ 
+ --isDisplayed();
+ --isEnabled();
+ --isSelected();
+ 

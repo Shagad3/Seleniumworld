@@ -1,0 +1,55 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "beforeSuite",
+        "resultFileName": "BeforeSuite"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624734609,
+      "duration": 33,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "f",
+        "resultFileName": "F"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624734705,
+      "duration": 4,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "config",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "name": "afterSuite",
+        "resultFileName": "AfterSuite"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729624734772,
+      "duration": 1,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

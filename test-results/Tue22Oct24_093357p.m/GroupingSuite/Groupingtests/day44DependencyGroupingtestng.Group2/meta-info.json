@@ -1,0 +1,64 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "regression"
+        ],
+        "name": "solo",
+        "resultFileName": "Solo"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729647237237,
+      "duration": 39,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "regression"
+        ],
+        "name": "hello",
+        "resultFileName": "Hello"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729647237284,
+      "duration": 3,
+      "result": "pass",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "retryCount": null,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "description": "",
+        "groups": [
+          "regression"
+        ],
+        "name": "bollo",
+        "resultFileName": "Bollo"
+      },
+      "dependsOn": [],
+      "doc": null,
+      "startTime": 1729647237290,
+      "duration": 2,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}
